@@ -1,0 +1,53 @@
+<h1> Image Created from Scratch </h1>
+<h3> by Chris Moroney </h3>
+<p>
+  <body> So you don't have to just use paint or any other tool to create an image. You can simply just use JavaScript!</body>
+</p>
+<p>
+  <body> Here is and example of using JavaScript to create a specialized image: </body>
+</p>
+<img src="data:image/png;data:image/png;base64,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">
+<p>
+  <body> Here's the code I used for making the picture: </body>
+</p>
+<h3> Algorithm </h3>
+<p>
+  <body> I knew that I wanted to start with a square image, so I simply created a black 200 by 200 pixel square. After that, I wanted to create smaller squares inside with different colors to create an effect of seeing all the different colors. So, I did this by using integers of 10 to increase the distance of one perimeter to the base black square. However, from one square to the next, the distance standing of each perimeter is only 10 pixels.</body>
+</p>
+<h3> The Code </h3>
+<pre>
+// creating my own image
+var image = new SimpleImage (200,200);
+for (var p of image.values()) {
+    var x = image.getWidth();
+    var y = image.getHeight();
+    if (p.getX() > 10 && p.getX() < 190 && p.getY() > 10 && p.getY() < 190) {
+        p.setRed(255);
+}
+    if (p.getX() > 20 && p.getX() < 180 && p.getY() > 20 && p.getY() < 180){
+        p.setRed(255);
+        p.setGreen(255);
+    }
+    if (p.getX() > 30 && p.getX() < 170 && p.getY() > 30 && p.getY() < 170){
+        p.setRed(255);
+        p.setGreen(135);
+    }
+    if (p.getX() > 40 && p.getX() < 160 && p.getY() > 40 && p.getY() < 160){
+        p.setRed(0);
+        p.setGreen(255);
+    }
+    if (p.getX() > 50 && p.getX() < 150 && p.getY() > 50 && p.getY() < 150){
+        p.setGreen(0);
+        p.setBlue(255);
+    }
+    if (p.getX() > 60 && p.getX() < 140 && p.getY() > 60 && p.getY() < 140) {
+        p.setRed(135);
+        p.setBlue(255);
+    }
+    if (p.getX() > 70 && p.getX() < 130 && p.getY() > 70 && p.getY() < 130) {
+        p.setRed(235);
+        p.setGreen(90);
+    }
+}
+print(image);
+</pre>
