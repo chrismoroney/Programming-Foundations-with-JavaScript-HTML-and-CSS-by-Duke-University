@@ -1,0 +1,82 @@
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #472C11
+}
+
+p {
+  font-family: "times new roman", times, serif;
+}
+
+body {
+  background-color: lightblue;
+}
+
+table,
+td,
+th {
+  border: 3px solid;
+  border-color: #2ADE2D
+}
+
+table {
+  border-collapse: collapse;
+  width: 800px;
+}
+
+th {
+  background-color: #EDEA15;
+  color: #F70707
+}
+
+tr {
+  height: 100px;
+  text-align: center;
+}
+
+td {
+  background-color: #AE7CCC
+}
+
+td ol {
+  text-align: left;
+}
+
+a {
+  color: purple;
+}
+
+.defensiveplayer {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.placesLi {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.hockey {
+  width: 400px;
+  height: 300px;
+}
+
+.tableimg {
+  width: 200px;
+  height: 200px;
+}
+
+.defensiveschemes {
+  font-weight: Bold;
+  font-size: 20px;
+}
+
+.defensivebackchanges {
+  font-style: italic;
+  font-size: 18px;
+}
+
+.schemeimg {
+  width: 350px;
+  height: 200px;
+}
